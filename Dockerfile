@@ -1,1 +1,1 @@
-FROM ghcr.io/eooce/hug-2go:latest
+FROM ghcr.io/qegfd/2gohf:latest
